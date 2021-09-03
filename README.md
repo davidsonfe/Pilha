@@ -5,5 +5,5 @@ Aluno: Davidson Felix
 Implementação de Pilha com Ponteiro em C++
 
 Dois arquivos;
-pilha.cpp // arquivo testador do pilha.h
-pilha.h // implementação da pilha
+pilha_ligada.cpp // arquivo testador do pilha.h
+pilha_ligada.h // implementação da pilha
