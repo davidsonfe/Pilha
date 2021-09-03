@@ -1,5 +1,7 @@
 Lista de Algoritmo IFPE
+
 Professor - Ramide
+
 Aluno: Davidson Felix
 
 Implementação de Pilha com Ponteiro em C++
